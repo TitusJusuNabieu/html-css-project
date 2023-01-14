@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    background-color:#F0F2F9ff;
+    height: 100vh;
+    justify-content: center;
+    padding-top: 60px;
+    font-size: 20px;
+    font-family:'Montserrat', sans-serif;
+}
+
+.title{
+    color:#6B70A5ff;
+    font-size: 45px;
+    font-family:'Roboto', sans-serif ;
+    margin-bottom: 25px;
+}
+
+.list{
+    text-align: center;
+}
+
+.list li{
+    padding: 30px;
+}
